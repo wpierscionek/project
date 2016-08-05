@@ -40,7 +40,7 @@ a {
 }
 
 .fa:hover {
-    color: #00AEEF;
+    color: #0080C5;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -48,11 +48,11 @@ a {
 }
 
 a:hover {
-    color: #00AEEF;
+    color: #0080C5;
     text-decoration: none;
 }
 
 .navbar-nav>li>a:focus,
 .navbar-default .navbar-nav>li>a:hover {
-    color: #00AEEF;
+    color: #0080C5;
 }
